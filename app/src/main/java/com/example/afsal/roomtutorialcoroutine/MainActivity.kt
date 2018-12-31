@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
             }
             textView.text = inputField.text.toString()+  "\n" + textView.text.toString()
             inputField.text = null
-            
+
         }
 
     }
